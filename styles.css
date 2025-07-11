@@ -110,3 +110,63 @@ nav{
   display: flex;
   justify-content: center;
 }
+.ready {
+
+  background-color:linen;
+  border-radius: 14px;
+}
+.let{
+
+  width: 528px;
+  height: 232px;
+ font-size: 70px;
+
+}
+.text-1{
+  display: flex;
+  justify-content:space-between ;
+}
+.from{
+
+  height: 140px;
+  
+}
+.btn-5{
+       width: 229px;
+  height: 48px;
+  border-radius: 10px;
+  color: #FFFFFF;
+  background-color: #4E47FF;
+
+}
+.but{
+ display: flex;
+ justify-content:right ;
+}
+footer li{
+  list-style: none;
+}
+footer a{
+  text-decoration: none;
+  color: #8987A1;
+}
+.bg-logo{
+
+ font-size: 70px;
+ color: #4E47FF;
+}
+footer{
+
+  text-align: center;
+}
+footer ul{
+  display: flex;
+  align-items: center;
+
+}
+.li{
+  
+
+
+}
+
